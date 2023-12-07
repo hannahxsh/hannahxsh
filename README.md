@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Xiang Sihan, A.K.A. Hannah
+**I'm Xiang Sihan, A.K.A. Hannah**
 - 🔭 I’m currently studying on MQF in SG
 - 💬 I have leart FE/QF for few years
 - 🌠 Keep learning and keep progressing
